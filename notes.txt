@@ -1,0 +1,32 @@
+user model -
+name 
+email 
+passsword
+username
+DOB
+Gender
+Age
+profile pic
+phone number
+relationship status
+about
+Highlights
+decide watch content categories
+
+Atrributes -
+messages
+post 
+Comment
+search history
+friendlist
+timeline
+wall
+Page 
+subscription
+Special message to contact artist page admin
+Ads in only explore section
+send annoucment notification
+
+Special features
+Explore section (show relevant post according to categories the user has given)
+marketplace for selling on ads

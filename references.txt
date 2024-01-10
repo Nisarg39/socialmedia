@@ -1,0 +1,9 @@
+passport jwt setup - https://www.youtube.com/watch?v=7ZEbBhDXk60
+
+upload files using axios - https://rapidapi.com/guides/upload-files-react-axios
+
+upload multiple files from single input tag - https://www.youtube.com/watch?v=ijx0Uqlo3NA
+
+how to use async function in map - https://betterprogramming.pub/how-to-use-async-await-with-map-in-js-5059043564e0
+
+how to push mern stack code to github - https://dev.to/birdy/mern-stack-project-setup-to-push-to-github-4l5e
