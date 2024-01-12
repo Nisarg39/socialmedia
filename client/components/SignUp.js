@@ -41,7 +41,7 @@ const SignUp = () => {
               );
               
                 setApiResponse(response.data.message)
-                router.push('/signin')
+                router.push('/')
             
         } catch (error) {
             console.log(error)

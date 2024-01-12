@@ -31,7 +31,7 @@ const SignIn = () => {
                     isAuthenticated(true)
                     setApiResponse(data.data.message)
                     localStorage.setItem('jwt', data.data.token)
-                    // router.back('/')
+                    router.back('/')
                 }
     
             } catch (error) {
