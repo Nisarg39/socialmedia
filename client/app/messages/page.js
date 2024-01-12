@@ -6,4 +6,4 @@ const Messages = () => {
   )
 }
 
-export default messages
+export default Messages

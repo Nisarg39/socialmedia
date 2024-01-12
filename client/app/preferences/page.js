@@ -15,4 +15,4 @@ const Preferences = () => {
   )
 }
 
-export default preferences
+export default Preferences
