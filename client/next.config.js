@@ -20,3 +20,4 @@ const nextConfig = {
 module.exports = nextConfig
 
 // to see your local ip for URL type this in terminal - ipconfig getifaddr en0
+// for windows use ip-config
