@@ -26,7 +26,7 @@ const SignIn = () => {
                     'Content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
                     }
                 })
-                
+                console.log(data)
                 if(data){
                     isAuthenticated(true)
                     setApiResponse(data.data.message)
