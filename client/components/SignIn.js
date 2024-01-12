@@ -14,7 +14,7 @@ const SignIn = () => {
     const router = useRouter();
 
     async function submitLogin(event){
-        // event.preventDefault();
+        event.preventDefault();
         
             try {
                 const data = await axios.post(`${process.env.URL}/api/user/signin`,
