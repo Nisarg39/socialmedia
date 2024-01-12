@@ -10,7 +10,7 @@ const nextConfig = {
             {
                 // hostname: "localhost"
                 // hostname: "192.168.1.215"
-                hostname: "peach-4m9r.onrender"
+                hostname: "peach-4m9r"
             }
         ]
         
