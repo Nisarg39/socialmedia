@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react'
 import { getUser } from '@/actions/homeApi'
 import Wall from '@/components/Wall'
 
-const profile = () => {
+const Profile = () => {
   const [isVerfiedStatus, setIsVerifiedStatus] = useState(true)
 
   useEffect(() => {
@@ -34,4 +34,4 @@ const profile = () => {
   )
 }
 
-export default profile
+export default Profile
