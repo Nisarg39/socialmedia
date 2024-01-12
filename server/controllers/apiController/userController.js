@@ -49,8 +49,8 @@ module.exports.signUp = async function(req,res){
 }
 
 module.exports.signin = async function(req, res){
-    // console.log(req.body)
-    console.log("user connected")
+    console.log(req.body)
+    // console.log("user connected")
     const userData = await User.findOne({username: req.body.username, password: req.body.password})
     
     if(userData){
