@@ -7,3 +7,5 @@ upload multiple files from single input tag - https://www.youtube.com/watch?v=ij
 how to use async function in map - https://betterprogramming.pub/how-to-use-async-await-with-map-in-js-5059043564e0
 
 how to push mern stack code to github - https://dev.to/birdy/mern-stack-project-setup-to-push-to-github-4l5e
+
+ngrok key - 2arUmhUfxnvSIbanQfvOFrOFLWH_57G3kxxkA3HFWAtv72jUK

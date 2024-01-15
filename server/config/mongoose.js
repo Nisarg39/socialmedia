@@ -14,7 +14,7 @@ const mongoose = require("mongoose");
 main().catch((err) => console.log(err));
 
 async function main() {
-  const db = await mongoose.connect(process.env.MONGODB_URL);  // LOCAL MONGODB URL "mongodb://localhost/socialmedia"
+  const db = await mongoose.connect("mongodb://localhost/socialmedia");  // LOCAL MONGODB URL "mongodb://localhost/socialmedia"
   if (db) {
     console.log("connected to mongodb");
   }

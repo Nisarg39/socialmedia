@@ -72,8 +72,9 @@ const Navbar = () => {
 
           <div className="flex col-span-4 gap-2 pt-2 justify-center">
           <Avatar>
-              <AvatarImage src={profileURL} />
-              <AvatarFallback>{userDetails.name}</AvatarFallback>
+              {/* <AvatarImage src={profileURL} /> */}
+              <Image src={profileURL} width={500} height={500} />
+              <AvatarFallback></AvatarFallback>
             </Avatar>
 
             <h1 className='pt-2 text-base font-extralight'>{userDetails.name}</h1>
