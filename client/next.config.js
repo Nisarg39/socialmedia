@@ -10,7 +10,7 @@ const nextConfig = {
       images: {
         remotePatterns:[
             {
-                hostname: "localhost",
+                // hostname: "localhost",
                 // hostname: "192.168.1.215"
                 hostname: "peach-4m9r"
                 // hostname: "https://9855-103-47-153-161.ngrok-free.app"

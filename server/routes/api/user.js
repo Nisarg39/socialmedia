@@ -16,7 +16,7 @@ router.get("/messages", passport.authenticate('jwt', {session: false}), userCont
 
 // practise for jwt authentication
 router.get("/protected",passport.authenticate('jwt', {session: false}), (req,res) => {
-    // console.log(req.user)
+    console.log(req.user)
     return res.status(200).json({
         success: true,
         user: req.user._id
